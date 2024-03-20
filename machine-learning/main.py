@@ -3,6 +3,8 @@ from sklearn.model_selection import train_test_split
 
 df = pd.read_csv('data/NintendoGames.csv')
 
+print(df.head())
+
 features = df.drop('title', axis=1)
 targets = df['title']
 
