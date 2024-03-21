@@ -1,12 +1,11 @@
 import pandas as pd
 from sklearn.model_selection import train_test_split
-from src import data_preprocessing, decision_tree
+from src import data_preprocessing, decision_tree as dtr
 
 df = pd.read_csv('data/NintendoGames.csv')
 
-df, platform_mapping, genres_mapping = data_preprocessing.data_preprocessing(df)
+df, titles, targets = data_preprocessing.data_preprocessing(df, target_column='meta_score')
 
-features = df.drop('title', axis=1)
-targets = df['title']
+X_train, X_test, y_train, y_test = train_test_split(df, targets, test_size=0.33, random_state=5)
 
-X_train, X_test, y_train, y_test = train_test_split(features, targets, test_size=0.33, random_state=5)
+dtr.decision_tree_regressor(X_train, X_test, y_train, y_test, file_name='dtr_meta_score.pdf')
