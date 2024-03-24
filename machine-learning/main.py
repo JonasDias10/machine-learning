@@ -1,6 +1,5 @@
 import pandas as pd
-from sklearn.model_selection import train_test_split
-from src import data_preprocessing, save_score_histograms as ssh
+from src import data_preprocessing, save_score_histograms as ssh, k_neighbors as kn
 
 df = pd.read_csv('data/NintendoGames.csv')
 
@@ -9,3 +8,6 @@ df, targets = data_preprocessing.data_preprocessing(df, 'best_game')
 
 # save score histograms
 ssh.save_score_histograms(df)
+
+# run k-nearest neighbors
+kn.k_neighbors(df, targets)
