@@ -37,10 +37,8 @@ The dataset contains the following columns:
 4. Run the Python scripts:
 
    - `main.py`: Script for preprocessing data and training models.
-
-5. Follow the instructions in each script to execute the code and train the models.
-
-6. After running the script, a PDF file containing the decision tree generated will be saved in the `outputs/` directory.
+     
+5. After executing the script, a file containing the result will be saved in the `outputs/` directory.
 
 ## Note
 
