@@ -1,5 +1,6 @@
 K-Nearest Neighbors Results
 
-Accuracy: 53.79%
-Precision: 73.24%
-Recall: 55.32%
+Accuracy: 68.94%
+Precision: 74.31%
+Recall: 86.17%
+Good Game count: 94 | Bad Game count: 38
