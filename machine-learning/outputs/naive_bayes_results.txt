@@ -1,0 +1,5 @@
+Naive Bayes
+
+Accuracy: 100.00%
+Precision: 100.00%
+Recall: 100.00%
