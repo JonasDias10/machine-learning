@@ -24,17 +24,17 @@ def k_neighbors(df, targets):
 
       # save txt with the results
       with open('outputs/k_neighbors_results.txt', 'w') as f:
-            f.write('K-Nearest Neighbors Results\n\n')
+            f.write('K-Nearest Neighbors\n\n')
             f.write('Accuracy: {:.2f}%\n'.format(accuracy))
             f.write('Precision: {:.2f}%\n'.format(precision))
             f.write('Recall: {:.2f}%\n'.format(recall))
-            f.write('Good Game count: {} | Bad Game count: {}\n'.format(good_game, bad_game))
 
       # save confusion matrix as png
-      labels = ['Bad Game', 'Good Game']
+      labels = ['Bad Game [ {} ]'.format(bad_game), 'Good Game [ {} ]'.format(good_game)]
       cm = confusion_matrix(y_test, y_pred)
       sns.heatmap(cm, annot=True, cmap='Blues', cbar=False, xticklabels=labels, yticklabels=labels)
       plt.xlabel('Predicted Labels')
       plt.ylabel('True Labels')
       plt.title('K-Nearest Neighbors Confusion Matrix')
       plt.savefig('outputs/knn_confusion_matrix.png')
+      plt.close()
