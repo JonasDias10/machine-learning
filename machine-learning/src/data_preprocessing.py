@@ -10,10 +10,11 @@ def data_preprocessing(df, target_column):
       # take all targets from df 
       targets = df[target_column].copy()
 
-      # encode values from df that need to be encoded to numbers
+      encoder = LabelEncoder()
       for column in df.columns:
             if df[column].dtype == 'object':
-                  encoded_column = LabelEncoder().fit_transform(df[column])
+                  encoded_column = encoder.fit_transform(df[column])
                   df.loc[:, column] = encoded_column
-
+                  if column == 'title':
+                        df.loc[:, ['decoded_titles']] = encoder.inverse_transform(encoded_column)
       return df, targets

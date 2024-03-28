@@ -33,6 +33,7 @@ def k_neighbors(df, targets):
       labels = ['Bad Game [ {} ]'.format(bad_game), 'Good Game [ {} ]'.format(good_game)]
       cm = confusion_matrix(y_test, y_pred)
       sns.heatmap(cm, annot=True, cmap='Blues', cbar=False, xticklabels=labels, yticklabels=labels)
+      plt.grid(False)
       plt.xlabel('Predicted Labels')
       plt.ylabel('True Labels')
       plt.title('K-Nearest Neighbors Confusion Matrix')
