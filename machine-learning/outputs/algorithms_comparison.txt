@@ -1,5 +1,5 @@
 K-Nearest Neighbors  | Naive Bayes          | Neural Network      
                      |                      |                     
-Accuracy: 68.94%     | Accuracy: 100.00%    | Accuracy: 77.27%    
-Precision: 74.31%    | Precision: 100.00%   | Precision: 76.23%   
-Recall: 86.17%       | Recall: 100.00%      | Recall: 98.94%      
+Accuracy: 68.94%     | Accuracy: 100.00%    | Accuracy: 82.58%    
+Precision: 74.31%    | Precision: 100.00%   | Precision: 92.77%   
+Recall: 86.17%       | Recall: 100.00%      | Recall: 81.91%      

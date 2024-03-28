@@ -1,5 +1,0 @@
-K-Nearest Neighbors
-
-Accuracy: 68.94%
-Precision: 74.31%
-Recall: 86.17%

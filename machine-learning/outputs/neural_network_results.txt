@@ -1,5 +1,0 @@
-Neural Network
-
-Accuracy: 77.27%
-Precision: 76.23%
-Recall: 98.94%

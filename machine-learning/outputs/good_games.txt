@@ -1,0 +1,455 @@
+Title                                                                                 | Meta Score | User Score
+The Legend of Zelda: Ocarina of Time                                                  |       99.0 |        9.1
+Super Mario Odyssey                                                                   |       97.0 |        8.9
+Super Mario Galaxy                                                                    |       97.0 |        9.1
+Super Mario Galaxy 2                                                                  |       97.0 |        9.1
+Perfect Dark                                                                          |       97.0 |        8.8
+Metroid Prime                                                                         |       97.0 |        9.0
+The Legend of Zelda: Breath of the Wild                                               |       97.0 |        8.7
+The Legend of Zelda: Breath of the Wild                                               |       96.0 |        8.3
+GoldenEye 007                                                                         |       96.0 |        8.9
+The Legend of Zelda: The Wind Waker                                                   |       96.0 |        9.0
+The Legend of Zelda: Twilight Princess                                                |       96.0 |        9.0
+The Legend of Zelda: Tears of the Kingdom                                             |       96.0 |        8.2
+The Legend of Zelda: Majora's Mask                                                    |       95.0 |        9.1
+The Legend of Zelda: A Link to the Past                                               |       95.0 |        9.0
+The Legend of Zelda Collector's Edition                                               |       95.0 |        8.9
+The Legend of Zelda: Twilight Princess                                                |       95.0 |        9.0
+Super Mario Advance 4: Super Mario Bros. 3                                            |       94.0 |        9.1
+Metroid Prime Remastered                                                              |       94.0 |        8.7
+Super Mario 64                                                                        |       94.0 |        9.1
+The Legend of Zelda: Ocarina of Time 3D                                               |       94.0 |        9.0
+Paper Mario                                                                           |       93.0 |        9.0
+Mario Kart Super Circuit                                                              |       93.0 |        8.0
+Super Mario 3D World                                                                  |       93.0 |        8.9
+Super Smash Bros. Ultimate                                                            |       93.0 |        8.6
+The Legend of Zelda: Skyward Sword                                                    |       93.0 |        8.1
+Super Smash Bros. Brawl                                                               |       93.0 |        8.8
+Super Smash Bros. for Wii U                                                           |       92.0 |        8.9
+Metroid Fusion                                                                        |       92.0 |        9.0
+Bayonetta 2                                                                           |       92.0 |        8.6
+Final Fantasy VI Advance                                                              |       92.0 |        8.7
+Xenoblade Chronicles                                                                  |       92.0 |        9.1
+Fire Emblem: Awakening                                                                |       92.0 |        9.0
+Mario Kart 8 Deluxe                                                                   |       92.0 |        8.6
+Metroid Prime 2: Echoes                                                               |       92.0 |        8.9
+Super Smash Bros. Melee                                                               |       92.0 |        9.0
+Xenoblade Chronicles 3: Expansion Pass Wave 4 - Future Redeemed                       |       92.0 |        8.8
+Super Mario Sunshine                                                                  |       92.0 |        8.3
+Wave Race 64                                                                          |       92.0 |        8.3
+Banjo-Kazooie                                                                         |       92.0 |        9.2
+Advance Wars                                                                          |       92.0 |        8.8
+Eternal Darkness: Sanity's Requiem                                                    |       92.0 |        8.8
+Super Mario World: Super Mario Advance 2                                              |       92.0 |        9.1
+Yoshi's Island: Super Mario Advance 3                                                 |       91.0 |        9.1
+Bayonetta 2                                                                           |       91.0 |        8.9
+The Legend of Zelda: A Link Between Worlds                                            |       91.0 |        9.0
+Mario Golf                                                                            |       91.0 |        7.8
+Mario Tennis                                                                          |       91.0 |        8.7
+Golden Sun                                                                            |       91.0 |        9.0
+Mario Kart DS                                                                         |       91.0 |        8.7
+Metroid Prime Trilogy                                                                 |       91.0 |        9.2
+Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition                      |       91.0 |        8.6
+The Legend of Zelda: Ocarina of Time / Master Quest                                   |       91.0 |        8.9
+The Legend of Zelda: The Wind Waker HD                                                |       90.0 |        9.0
+Banjo-Tooie                                                                           |       90.0 |        8.8
+Bayonetta + Bayonetta 2                                                               |       90.0 |        8.7
+The Legend of Zelda: Phantom Hourglass                                                |       90.0 |        7.9
+Metroid Prime 3: Corruption                                                           |       90.0 |        8.8
+Mario Kart 8 DLC Pack 2                                                               |       90.0 |        8.2
+Mario & Luigi: Superstar Saga                                                         |       90.0 |        8.8
+Mario & Luigi: Bowser's Inside Story                                                  |       90.0 |        8.8
+Advance Wars: Dual Strike                                                             |       90.0 |        8.8
+Super Mario 3D Land                                                                   |       90.0 |        8.4
+Pushmo                                                                                |       90.0 |        8.3
+Blast Corps                                                                           |       90.0 |        8.4
+Pikmin 2                                                                              |       90.0 |        9.1
+Advance Wars 2: Black Hole Rising                                                     |       89.0 |        8.8
+Xenoblade Chronicles: Definitive Edition                                              |       89.0 |        8.8
+Fire Emblem: Three Houses                                                             |       89.0 |        8.8
+Xenoblade Chronicles 3                                                                |       89.0 |        8.5
+WarioWare, Inc.: Mega Microgame$!                                                     |       89.0 |        8.6
+The Legend of Zelda: Majora's Mask 3D                                                 |       89.0 |        8.9
+F-Zero GX                                                                             |       89.0 |        8.6
+Metroid: Zero Mission                                                                 |       89.0 |        9.1
+The Legend of Zelda: The Minish Cap                                                   |       89.0 |        8.9
+Pikmin                                                                                |       89.0 |        8.7
+New Super Mario Bros.                                                                 |       89.0 |        8.6
+Super Mario 3D World + Bowser's Fury                                                  |       89.0 |        8.7
+Wario Land 4                                                                          |       88.0 |        8.8
+Mario Kart 8                                                                          |       88.0 |        8.7
+Super Mario Maker 2                                                                   |       88.0 |        8.5
+Metroid Dread                                                                         |       88.0 |        8.7
+Super Mario Maker                                                                     |       88.0 |        8.7
+Fire Emblem Fates: Special Edition                                                    |       88.0 |        7.8
+Fire Emblem                                                                           |       88.0 |        9.1
+Star Fox 64                                                                           |       88.0 |        8.8
+Pokemon Y                                                                             |       88.0 |        7.5
+Excitebike 64                                                                         |       88.0 |        8.2
+Meteos                                                                                |       88.0 |        7.4
+WarioWare: Twisted!                                                                   |       88.0 |        8.7
+Fire Emblem Fates: Revelation                                                         |       88.0 |        7.2
+Diddy Kong Racing                                                                     |       88.0 |        8.4
+Animal Crossing: New Leaf                                                             |       88.0 |        8.7
+Pokemon X                                                                             |       87.0 |        7.5
+Mario Kart 8 DLC Pack 1                                                               |       87.0 |        8.2
+Mario Kart: Double Dash!!                                                             |       87.0 |        8.6
+Sin & Punishment: Star Successor                                                      |       87.0 |        8.5
+Pikmin 3                                                                              |       87.0 |        8.8
+Pokemon Black Version                                                                 |       87.0 |        7.9
+Pokemon White Version                                                                 |       87.0 |        7.9
+Donkey Kong Country Returns                                                           |       87.0 |        8.6
+Dragon Quest IX: Sentinels of the Starry Skies                                        |       87.0 |        8.6
+Pokemon HeartGold Version                                                             |       87.0 |        9.1
+Pokemon SoulSilver Version                                                            |       87.0 |        9.2
+The Legend of Zelda: Spirit Tracks                                                    |       87.0 |        7.9
+New Super Mario Bros. Wii                                                             |       87.0 |        8.4
+Animal Crossing                                                                       |       87.0 |        8.8
+Final Fantasy Tactics Advance                                                         |       87.0 |        9.0
+Elite Beat Agents                                                                     |       87.0 |        8.5
+Paper Mario: The Thousand-Year Door                                                   |       87.0 |        9.1
+Fire Emblem Fates: Conquest                                                           |       87.0 |        8.0
+Pikmin 4                                                                              |       87.0 |        9.0
+Pokemon Moon                                                                          |       87.0 |        7.6
+Pokemon Sun                                                                           |       87.0 |        7.6
+The Legend of Zelda: Link's Awakening                                                 |       87.0 |        8.4
+Astral Chain                                                                          |       87.0 |        8.9
+Animal Crossing: Wild World                                                           |       86.0 |        8.5
+Punch-Out!!                                                                           |       86.0 |        8.6
+Golden Sun: The Lost Age                                                              |       86.0 |        9.0
+Advance Wars: Days of Ruin                                                            |       86.0 |        8.5
+Crashmo                                                                               |       86.0 |        8.2
+Luigi's Mansion 3                                                                     |       86.0 |        8.4
+Xenoblade Chronicles 3D                                                               |       86.0 |        8.7
+The Legend of Zelda: Four Swords Adventures                                           |       86.0 |        7.6
+Donkey Kong Country: Tropical Freeze                                                  |       86.0 |        8.6
+F-Zero: Maximum Velocity                                                              |       86.0 |        7.8
+Professor Layton and the Unwound Future                                               |       86.0 |        8.7
+Picross 3D: Round 2                                                                   |       86.0 |        7.8
+Kirby: Canvas Curse                                                                   |       86.0 |        7.8
+Fire Emblem Fates: Birthright                                                         |       86.0 |        7.8
+Fluidity                                                                              |       86.0 |        7.8
+Bayonetta 3                                                                           |       86.0 |        7.1
+Kirby's Epic Yarn                                                                     |       86.0 |        8.5
+The Legend of Zelda: Twilight Princess HD                                             |       86.0 |        8.6
+Luigi's Mansion: Dark Moon                                                            |       86.0 |        8.4
+Bayonetta                                                                             |       86.0 |        8.8
+Planet Puzzle League                                                                  |       86.0 |        7.9
+Mario & Luigi: Partners in Time                                                       |       86.0 |        8.5
+Mario Kart 7                                                                          |       85.0 |        8.2
+Pokemon Diamond Version                                                               |       85.0 |        8.2
+Super Paper Mario                                                                     |       85.0 |        8.0
+Super Smash Bros. for Nintendo 3DS                                                    |       85.0 |        8.4
+Cadence of Hyrule: Crypt of the NecroDancer Featuring The Legend of Zelda             |       85.0 |        8.0
+Pokemon Pearl Version                                                                 |       85.0 |        8.2
+Super Mario 64 DS                                                                     |       85.0 |        8.3
+Bravely Default                                                                       |       85.0 |        8.4
+Maboshi's Arcade                                                                      |       85.0 |        7.9
+The Legend of Zelda: Four Swords Anniversary Edition                                  |       85.0 |        7.5
+Dragon Quest VIII: Journey of the Cursed King                                         |       85.0 |        8.6
+Professor Layton and the Curious Village                                              |       85.0 |        8.4
+Metroid: Samus Returns                                                                |       85.0 |        8.7
+Pikmin 3 Deluxe                                                                       |       85.0 |        8.6
+Fire Emblem: The Sacred Stones                                                        |       85.0 |        9.0
+Fire Emblem: Path of Radiance                                                         |       85.0 |        9.1
+Metroid Prime: Hunters                                                                |       85.0 |        7.7
+Kirby and the Forgotten Land                                                          |       85.0 |        8.9
+F-Zero X                                                                              |       85.0 |        8.7
+Final Fantasy IV Advance                                                              |       85.0 |        8.4
+Tetris DS                                                                             |       84.0 |        7.9
+Mario Golf: Advance Tour                                                              |       84.0 |        8.5
+New Super Mario Bros. U                                                               |       84.0 |        8.0
+Classic NES Series: Super Mario Bros.                                                 |       84.0 |        8.4
+Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey                           |       84.0 |        7.8
+Pokemon Ultra Moon                                                                    |       84.0 |        7.6
+Snipperclips Plus: Cut It Out, Together!                                              |       84.0 |        8.0
+Pokemon Ultra Sun                                                                     |       84.0 |        7.7
+Bayonetta                                                                             |       84.0 |        8.3
+Xenoblade Chronicles X                                                                |       84.0 |        9.1
+Professor Layton and the Diabolical Box                                               |       84.0 |        8.5
+Super Mario Advance                                                                   |       84.0 |        8.2
+Classic NES Series: The Legend of Zelda                                               |       84.0 |        8.4
+Nintendogs: Dalmatian & Friends                                                       |       83.0 |        7.4
+Xenoblade Chronicles 2                                                                |       83.0 |        8.5
+Art Style: PiCTOBiTS                                                                  |       83.0 |        7.5
+Clubhouse Games                                                                       |       83.0 |        7.8
+Kid Icarus: Uprising                                                                  |       83.0 |        8.7
+Final Fantasy V Advance                                                               |       83.0 |        8.2
+WarioWare: Smooth Moves                                                               |       83.0 |        7.6
+Rhythm Heaven                                                                         |       83.0 |        8.4
+Pokemon Platinum Version                                                              |       83.0 |        8.9
+Kirby Mass Attack                                                                     |       83.0 |        7.9
+Rhythm Heaven Fever                                                                   |       83.0 |        8.3
+Professor Layton and the Last Specter                                                 |       83.0 |        8.1
+Picross DS                                                                            |       83.0 |        7.9
+Splatoon 2                                                                            |       83.0 |        8.4
+Nintendogs: Dachshund & Friends                                                       |       83.0 |        7.9
+Picross 3D                                                                            |       83.0 |        8.2
+Ring Fit Adventure                                                                    |       83.0 |        8.6
+Pocket Card Jockey                                                                    |       83.0 |        8.1
+Stretchmo                                                                             |       83.0 |        8.0
+Pokemon Legends: Arceus                                                               |       83.0 |        8.1
+Pokemon Omega Ruby                                                                    |       83.0 |        7.5
+Rhythm Heaven Megamix                                                                 |       83.0 |        8.2
+Tetris 99                                                                             |       83.0 |        8.1
+Donkey Kong Country: Tropical Freeze                                                  |       83.0 |        8.9
+Nintendogs: Lab & Friends                                                             |       83.0 |        7.6
+BYE-BYE BOXBOY!                                                                       |       83.0 |        7.9
+Mario Kart 64                                                                         |       83.0 |        8.6
+Donkey Kong Country Returns 3D                                                        |       83.0 |        8.2
+Nintendogs: Chihuahua & Friends                                                       |       83.0 |        7.8
+Octopath Traveler                                                                     |       83.0 |        8.4
+Splatoon 2: Octo Expansion                                                            |       82.0 |        8.5
+Pokemon Ruby Version                                                                  |       82.0 |        8.5
+Art Academy: Home Studio                                                              |       82.0 |        7.9
+Professor Layton and the Miracle Mask                                                 |       82.0 |        8.1
+Mario vs. Donkey Kong: Minis March Again!                                             |       82.0 |        7.9
+Clubhouse Games: 51 Worldwide Classics                                                |       82.0 |        7.7
+Art Style: ORBIENT                                                                    |       82.0 |        8.2
+Star Fox Adventures                                                                   |       82.0 |        8.0
+Mario Kart Wii                                                                        |       82.0 |        8.5
+Pikmin 1                                                                              |       82.0 |        8.4
+Pokemon Alpha Sapphire                                                                |       82.0 |        7.6
+WarioWare D.I.Y.                                                                      |       82.0 |        8.2
+Arcade Archives: Donkey Kong                                                          |       82.0 |        7.7
+Starship Defense                                                                      |       82.0 |        7.5
+X-Scape                                                                               |       82.0 |        7.0
+Kirby's Dream Collection: Special Edition                                             |       82.0 |        8.9
+Advance Wars 1 + 2: Re-Boot Camp                                                      |       82.0 |        8.1
+Captain Toad: Treasure Tracker                                                        |       82.0 |        7.9
+Ridge Racer 64                                                                        |       82.0 |        8.1
+The Legend of Zelda: Breath of the Wild - The Champions' Ballad                       |       81.0 |        8.5
+Live A Live                                                                           |       81.0 |        7.5
+Bayonetta Origins: Cereza and the Lost Demon                                          |       81.0 |        8.6
+Pokemon Puzzle League                                                                 |       81.0 |        8.4
+Drill Dozer                                                                           |       81.0 |        8.7
+The Legend of Zelda: Skyward Sword HD                                                 |       81.0 |        7.3
+Fire Emblem: Shadow Dragon                                                            |       81.0 |        7.1
+Personal Trainer: Cooking                                                             |       81.0 |        8.1
+Kirby: Nightmare in Dream Land                                                        |       81.0 |        8.6
+Mario Tennis: Power Tour                                                              |       81.0 |        8.6
+Mario Golf: Toadstool Tour                                                            |       81.0 |        8.1
+Pokemon Pinball: Ruby & Sapphire                                                      |       81.0 |        7.7
+BoxBoy! + BoxGirl!                                                                    |       81.0 |        8.0
+Mario vs. Donkey Kong                                                                 |       81.0 |        8.2
+Pokemon LeafGreen Version                                                             |       81.0 |        8.5
+Pokemon FireRed Version                                                               |       81.0 |        8.6
+WarioWare: Touched!                                                                   |       81.0 |        8.2
+Yoshi's Island DS                                                                     |       81.0 |        8.1
+Kirby: Planet Robobot                                                                 |       81.0 |        8.7
+Dragon Quest Builders                                                                 |       81.0 |        8.0
+Star Fox 64 3D                                                                        |       81.0 |        8.1
+Captain Toad: Treasure Tracker                                                        |       81.0 |        8.6
+Fire Emblem Echoes: Shadows of Valentia                                               |       81.0 |        8.6
+Splatoon                                                                              |       81.0 |        8.7
+Art Academy: Lessons for Everyone                                                     |       81.0 |        7.5
+Dragon Quest VII: Fragments of the Forgotten Past                                     |       81.0 |        8.2
+Professor Layton and the Azran Legacy                                                 |       81.0 |        8.1
+Mario & Luigi: Dream Team                                                             |       81.0 |        8.3
+Mario & Luigi: Superstar Saga + Bowser's Minions                                      |       81.0 |        8.2
+Bravely Second: End Layer                                                             |       81.0 |        8.2
+Donkey Kong Jungle Beat                                                               |       80.0 |        8.3
+BOXBOY!                                                                               |       80.0 |        8.1
+Yo-kai Watch 3                                                                        |       80.0 |        8.4
+Snipperclips - Cut it out, together!                                                  |       80.0 |        8.2
+Paper Mario: The Origami King                                                         |       80.0 |        7.0
+Pokemon Conquest                                                                      |       80.0 |        8.1
+Wave Race: Blue Storm                                                                 |       80.0 |        8.0
+Kirby & the Amazing Mirror                                                            |       80.0 |        8.6
+Bit.Trip Beat                                                                         |       80.0 |        8.3
+Pushmo World                                                                          |       80.0 |        8.0
+Wii Fit                                                                               |       80.0 |        7.7
+Pokemon White Version 2                                                               |       80.0 |        8.0
+New Super Mario Bros. U Deluxe                                                        |       80.0 |        7.0
+Mario Power Tennis                                                                    |       80.0 |        8.5
+Final Fantasy Crystal Chronicles                                                      |       80.0 |        8.9
+LEGO City Undercover                                                                  |       80.0 |        8.2
+Pilotwings 64                                                                         |       80.0 |        7.9
+Tokyo Mirage Sessions #FE                                                             |       80.0 |        7.9
+Fire Emblem Warriors: Three Hopes                                                     |       80.0 |        8.9
+BoxBoxBoy!                                                                            |       80.0 |        7.9
+Wii Fit Plus                                                                          |       80.0 |        7.6
+Donkey Kong Country 2                                                                 |       80.0 |        8.6
+Style Savvy: Styling Star                                                             |       80.0 |        7.6
+Xenoblade Chronicles 2: Torna ~ The Golden Country                                    |       80.0 |        8.5
+Wii Sports Resort                                                                     |       80.0 |        8.3
+Bit.Trip Core                                                                         |       80.0 |        8.1
+Kirby: Triple Deluxe                                                                  |       80.0 |        8.6
+Mario Party Superstars                                                                |       80.0 |        8.0
+Starcraft 64                                                                          |       80.0 |        7.6
+Pokemon Black Version 2                                                               |       80.0 |        8.1
+Mario Strikers Charged                                                                |       79.0 |        8.2
+Final Fantasy I & II: Dawn of Souls                                                   |       79.0 |        8.0
+Monster Hunter Stories                                                                |       79.0 |        8.2
+Mario vs. Donkey Kong: Mini-Land Mayhem                                               |       79.0 |        8.1
+Yoshi's Crafted World                                                                 |       79.0 |        7.8
+Professor Layton VS Phoenix Wright Ace Attorney                                       |       79.0 |        8.2
+Captain Toad: Treasure Tracker                                                        |       79.0 |        7.0
+Pokken Tournament DX                                                                  |       79.0 |        7.3
+Golden Sun: Dark Dawn                                                                 |       79.0 |        8.1
+Metroid Prime Pinball                                                                 |       79.0 |        7.9
+Super Smash Bros.                                                                     |       79.0 |        8.6
+Mario Party                                                                           |       79.0 |        8.0
+You, Me, and the Cubes                                                                |       79.0 |        7.0
+Kirby's Return to Dream Land Deluxe                                                   |       79.0 |        8.8
+WarioWare Gold                                                                        |       78.0 |        8.2
+Hyrule Warriors: Definitive Edition                                                   |       78.0 |        7.9
+The Legend of Zelda: Breath of the Wild - The Master Trials                           |       78.0 |        7.7
+The Wonderful 101                                                                     |       78.0 |        8.6
+Hotel Dusk: Room 215                                                                  |       78.0 |        8.6
+New Super Mario Bros. 2                                                               |       78.0 |        7.1
+Top Gear Rally                                                                        |       78.0 |        7.5
+Luigi's Mansion                                                                       |       78.0 |        8.6
+Good Job!                                                                             |       78.0 |        8.0
+Dragon Quest VI: Realms of Revelation                                                 |       78.0 |        8.3
+New Play Control! Donkey Kong Jungle Beat                                             |       78.0 |        8.5
+Yoshi's Woolly World                                                                  |       78.0 |        8.4
+Pokemon Stadium 2                                                                     |       78.0 |        8.4
+Hyrule Warriors: Age of Calamity                                                      |       78.0 |        8.0
+Part Time UFO                                                                         |       78.0 |        7.5
+Mario and Donkey Kong: Minis on the Move                                              |       78.0 |        7.2
+Wario Land: Shake It!                                                                 |       78.0 |        8.5
+Donkey Kong Country                                                                   |       78.0 |        8.7
+Pac-Man vs.                                                                           |       78.0 |        8.3
+Fire Emblem: Radiant Dawn                                                             |       78.0 |        8.9
+Chibi-Robo! Park Patrol                                                               |       78.0 |        7.7
+Mario Golf: World Tour                                                                |       78.0 |        8.1
+Ittle Dew 2+                                                                          |       77.0 |        7.8
+Hamtaro: Ham-Ham Games                                                                |       77.0 |        8.3
+The World Ends with You: Final Remix                                                  |       77.0 |        7.4
+Game Builder Garage                                                                   |       77.0 |        7.8
+Kirby 64: The Crystal Shards                                                          |       77.0 |        8.1
+New Super Luigi U                                                                     |       77.0 |        8.0
+Pokemon Snap                                                                          |       77.0 |        7.7
+Donkey Kong Country 3                                                                 |       77.0 |        8.2
+ARMS                                                                                  |       77.0 |        7.1
+F-Zero GP Legend                                                                      |       77.0 |        8.3
+Poochy & Yoshi's Woolly World                                                         |       77.0 |        7.8
+Nintendo Land                                                                         |       77.0 |        7.9
+Excitebots: Trick Racing                                                              |       77.0 |        8.1
+3D Classics: Kid Icarus                                                               |       77.0 |        7.4
+Brain Age 2: More Training in Minutes a Day                                           |       77.0 |        7.1
+Dragon Quest Monsters: Joker 2                                                        |       77.0 |        7.6
+Kirby's Return to Dream Land                                                          |       77.0 |        8.8
+3D Classics: Kirby's Adventure                                                        |       77.0 |        7.9
+New Play Control! Pikmin                                                              |       77.0 |        8.4
+Brain Age: Train Your Brain in Minutes a Day!                                         |       77.0 |        7.5
+Kirby Super Star Ultra                                                                |       76.0 |        8.8
+Hyrule Warriors                                                                       |       76.0 |        8.3
+Sushi Striker: The Way of Sushido                                                     |       76.0 |        7.7
+Yo-kai Watch                                                                          |       76.0 |        8.1
+Ever Oasis                                                                            |       76.0 |        8.1
+Super Mario Party                                                                     |       76.0 |        7.0
+Donkey Konga                                                                          |       76.0 |        7.9
+Pokken Tournament                                                                     |       76.0 |        7.4
+Dr. Mario Express                                                                     |       76.0 |        7.4
+WarioWare: Get It Together!                                                           |       76.0 |        7.7
+WarioWare, Inc.: Mega Party Game$!                                                    |       76.0 |        8.0
+Pokemon Emerald Version                                                               |       76.0 |        8.9
+Mario & Luigi: Paper Jam                                                              |       76.0 |        7.3
+Endless Ocean: Blue World                                                             |       76.0 |        8.6
+Tales of Phantasia                                                                    |       76.0 |        8.1
+Wii Sports                                                                            |       76.0 |        8.1
+Battalion Wars                                                                        |       76.0 |        8.4
+Mario Superstar Baseball                                                              |       76.0 |        8.4
+Paper Mario: Color Splash                                                             |       76.0 |        7.1
+Pokemon Art Academy                                                                   |       76.0 |        7.8
+Style Savvy: Trendsetters                                                             |       76.0 |        7.6
+Super Mario Strikers                                                                  |       76.0 |        8.6
+Mario vs. Donkey Kong 2: March of the Minis                                           |       76.0 |        7.8
+Ketzal's Corridors                                                                    |       76.0 |        7.6
+Mario Tennis Aces                                                                     |       75.0 |        7.0
+The Stretchers                                                                        |       75.0 |        7.2
+The Legendary Starfy                                                                  |       75.0 |        8.4
+Chibi-Robo!                                                                           |       75.0 |        8.8
+Dragon Ball: Xenoverse 2                                                              |       75.0 |        7.5
+Super Princess Peach                                                                  |       75.0 |        8.0
+Super Mario Bros. 35                                                                  |       75.0 |        7.6
+Fire Emblem: Three Houses - Side Story: Cindered Shadows                              |       75.0 |        8.1
+Bonsai Barber                                                                         |       75.0 |        7.4
+Baten Kaitos Origins                                                                  |       75.0 |        8.3
+Pokemon Picross                                                                       |       75.0 |        7.5
+Art Academy                                                                           |       75.0 |        7.6
+Mario Kart Live: Home Circuit                                                         |       75.0 |        7.1
+Battalion Wars 2                                                                      |       75.0 |        8.2
+Famicom Detective Club: The Girl Who Stands Behind                                    |       74.0 |        7.1
+Famicom Detective Club: The Missing Heir                                              |       74.0 |        7.1
+Inazuma Eleven                                                                        |       74.0 |        7.9
+Mario Party 3                                                                         |       74.0 |        8.2
+Tetris Axis                                                                           |       74.0 |        7.1
+Super Kirby Clash                                                                     |       74.0 |        7.5
+Rusty's Real Deal Baseball                                                            |       74.0 |        7.7
+Luigi's Mansion                                                                       |       74.0 |        8.1
+Classic NES Series: Castlevania                                                       |       74.0 |        8.6
+Sakura Samurai: Art of the Sword                                                      |       74.0 |        7.3
+Custom Robo Arena                                                                     |       74.0 |        8.3
+Star Fox Guard                                                                        |       74.0 |        7.4
+Dr. Mario / Puzzle League                                                             |       74.0 |        8.0
+Pokemon Trozei!                                                                       |       74.0 |        7.2
+Fire Emblem Warriors                                                                  |       74.0 |        7.7
+Big Brain Academy                                                                     |       74.0 |        7.4
+The Legend of Zelda: Tri Force Heroes                                                 |       73.0 |        7.2
+Art Style: CUBELLO                                                                    |       73.0 |        7.6
+Kirby and the Rainbow Curse                                                           |       73.0 |        8.0
+ThruSpace                                                                             |       73.0 |        8.3
+Animal Crossing: City Folk                                                            |       73.0 |        7.9
+LBX: Little Battlers eXperience                                                       |       73.0 |        7.4
+Style Savvy                                                                           |       73.0 |        7.5
+Yo-kai Watch 2: Psychic Specters                                                      |       73.0 |        8.5
+Puzzle & Dragons Z + Puzzle & Dragons: Super Mario Bros. Edition                      |       73.0 |        7.6
+Big Brain Academy: Brain vs. Brain                                                    |       73.0 |        8.1
+Fantasy Life                                                                          |       73.0 |        8.4
+WarioWare D.I.Y. Showcase                                                             |       73.0 |        7.8
+Polarium                                                                              |       73.0 |        8.2
+Pokemon Colosseum                                                                     |       73.0 |        8.0
+Kirby Star Allies                                                                     |       73.0 |        7.5
+NES Remix 2                                                                           |       73.0 |        8.0
+Marvel Ultimate Alliance 3: The Black Order                                           |       73.0 |        7.3
+1080: Avalanche                                                                       |       73.0 |        7.8
+Classic NES Series: Zelda II: The Adventure of Link                                   |       73.0 |        7.0
+HarmoKnight                                                                           |       73.0 |        7.4
+Endless Ocean                                                                         |       72.0 |        8.2
+Excite Truck                                                                          |       72.0 |        8.3
+Yo-kai Watch 2: Bony Spirits                                                          |       72.0 |        8.0
+Mario Party DS                                                                        |       72.0 |        7.8
+Sword of Mana                                                                         |       72.0 |        8.5
+Dr. Mario Online RX                                                                   |       72.0 |        8.2
+Fire Emblem Heroes                                                                    |       72.0 |        7.2
+Disney Art Academy                                                                    |       72.0 |        7.1
+Hamtaro: Ham Ham Heartbreak                                                           |       72.0 |        8.4
+Wii Fit U                                                                             |       72.0 |        7.7
+Dr. Mario 64                                                                          |       71.0 |        7.3
+NES Remix                                                                             |       71.0 |        7.3
+Miitopia                                                                              |       71.0 |        8.1
+Mickey's Speedway USA                                                                 |       71.0 |        7.7
+Disney Magical World                                                                  |       71.0 |        7.5
+Detective Pikachu                                                                     |       71.0 |        7.4
+Tomodachi Life                                                                        |       71.0 |        7.7
+Bird & Beans                                                                          |       71.0 |        7.8
+Mario Party 6                                                                         |       71.0 |        7.9
+Nintendogs + Cats: French Bulldog & New Friends                                       |       71.0 |        7.1
+Nintendogs + Cats: Toy Poodle & New Friends                                           |       71.0 |        7.5
+NBA Courtside 2002                                                                    |       71.0 |        7.4
+Electroplankton                                                                       |       71.0 |        7.0
+Pilotwings Resort                                                                     |       71.0 |        7.2
+Wario World                                                                           |       71.0 |        7.6
+Nintendogs + Cats: Golden Retriever & New Friends                                     |       71.0 |        7.2
+Game & Watch Gallery 4                                                                |       71.0 |        8.1
+Cubivore: Survival of the Fittest                                                     |       71.0 |        8.1
+Kirby: Squeak Squad                                                                   |       71.0 |        7.8
+Hyrule Warriors Legends                                                               |       70.0 |        7.5
+Trace Memory                                                                          |       70.0 |        8.1
+Excitebike: World Rally                                                               |       70.0 |        7.5
+Photo Dojo                                                                            |       70.0 |        7.0
+Yo-kai Watch 2: Fleshy Souls                                                          |       70.0 |        8.0
+Fossil Fighters                                                                       |       70.0 |        8.4
+Steel Diver: Sub Wars                                                                 |       70.0 |        7.6
+Sine Mora EX                                                                          |       70.0 |        7.2
+Pokemon Battle Trozei                                                                 |       70.0 |        7.3
+Super Mario All-Stars: 25th Anniversary Edition                                       |       70.0 |        7.8
+Mario & Sonic at the Olympic Games                                                    |       70.0 |        7.0
+Magnetica Twist                                                                       |       70.0 |        7.8
+Mario Party 4                                                                         |       70.0 |        7.7
+Mario vs. Donkey Kong: Tipping Stars                                                  |       70.0 |        7.5
+Mario vs. Donkey Kong: Tipping Stars                                                  |       70.0 |        7.4
+Art Style: AQUIA                                                                      |       70.0 |        7.3
