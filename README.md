@@ -2,7 +2,7 @@
 
 Welcome to the Machine Learning project! This project focuses on training machine learning models using the Nintendo games database.
 
-We have utilized three different machine learning algorithms in this project: **K-Nearest Neighbors**, **Naive Bayes**, and **Neural Network**. Below are the accuracy, precision, and recall scores achieved by each algorithm:
+I used three different machine learning algorithms in this project: **K-Nearest Neighbors**, **Naive Bayes** and **Neural Network**. Below are the accuracy, precision, and recall scores achieved by each algorithm:
 
 | Metric    | K-Nearest Neighbors | Naive Bayes | Neural Network |
 | --------- | ------------------- | ----------- | -------------- |
