@@ -11,7 +11,7 @@ charset-normalizer==3.3.2
 click==8.1.7
 command-not-found==0.3
 contourpy==1.2.0
-cryptography==3.4.8
+cryptography==42.0.4
 cycler==0.12.1
 dbus-python==1.2.18
 decorator==5.1.1
